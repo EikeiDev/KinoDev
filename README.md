@@ -2,4 +2,4 @@
 
 Скрипт для просмотра Kinopoisk бесплатно.
 
-https://github.com/KotaruProject/KinoDev/raw/main/KinoDev.user.js
+[https://github.com/KotaruProject/KinoDev/raw/main/KinoDev.user.js](https://github.com/KotaruProject/KinoDev/raw/main/KinoDev.user.js)https://github.com/KotaruProject/KinoDev/raw/main/KinoDev.user.js
