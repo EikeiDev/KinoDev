@@ -2,4 +2,10 @@
 
 Скрипт для просмотра Kinopoisk бесплатно.
 
-[https://github.com/KotaruProject/KinoDev/raw/main/KinoDev.user.js](https://github.com/KotaruProject/KinoDev/raw/main/KinoDev.user.js)https://github.com/KotaruProject/KinoDev/raw/main/KinoDev.user.js
+Для установки нужен TamperMonkey.
+- Устанавливаем расширение.
+- Устанавливаем скрипт https://github.com/KotaruProject/KinoDev/raw/main/KinoDev.user.js
+- Заходим на Kinopoisk и выбираем любой фильм.
+- Смотрим бесплатно с нескольких крупных источников.
+
+Информация лишь для ознакомления, автор не притендует на нарушение авторских прав, любой источник - это сторонние плееры!
