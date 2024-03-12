@@ -4,7 +4,7 @@
 
 Для установки нужен TamperMonkey.
 - Устанавливаем расширение.
-- Устанавливаем скрипт https://github.com/KotaruProject/KinoDev/raw/main/KinoDev.user.js
+- Устанавливаем скрипт https://github.com/EikeiDev/KinoDev/raw/main/KinoDev.user.js
 - Заходим на Kinopoisk и выбираем любой фильм.
 - Смотрим бесплатно с нескольких крупных источников.
 
