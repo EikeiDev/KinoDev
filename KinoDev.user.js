@@ -1,14 +1,14 @@
 // ==UserScript==
 // @name         KinoDev
 // @namespace    KinoDev
-// @version      1.4
+// @version      1.5
 // @description  Watch films on Kinopoisk.ru & IMDB for free!
 // @author       ZadliM
 // @match        *://www.kinopoisk.ru/*/*
 // ==/UserScript==
 
 // Link to the viewer page
-const kinopoiskWatchLink = 'https://kino.notdev.space/?id=';
+const kinopoiskWatchLink = 'https://kino.notdev.lol/?id=';
 
 // Image of the banner
 const bannerImage = `
